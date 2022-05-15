@@ -1,7 +1,7 @@
 # Discord-ReportBot
 <p align="center">
   <a href="https://github.com/yutodadil/Discord-ReportBot">
-    <img src="images/106FA6B6-0785-4114-8554-0B47919C09E8.jpeg" alt="Sample" width="1500" height="200">
+    <img src="images/106FA6B6-0785-4114-8554-0B47919C09E8.jpeg" alt="Sample" width="1500" height="500">
   </a>
 </p>
 
