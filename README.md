@@ -11,6 +11,6 @@
 #### 6 Methods!!
 #### ProxySupport(your Proxy,Proxies.gg,proxyscrape.com)
 ---
-## このRepoは削除されたScriptedさんのReportBotを改良し、機能を追加した物です。
+## このRepoはpatchedさんのReportBotを改良した物です。
 ### ReportBotを公開するとこれを使われて悲しむ人が居る為ソースコードの公開はしません。
 ### あくまでこの様な物が存在するんだな、という知識にしてください。
